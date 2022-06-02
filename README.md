@@ -1,2 +1,2 @@
-<a href="evgenygusinsky.github.io/alivio/">Сайт проекта Оливио</a>
+<a href="evgenygusinsky.github.io/alivio/" target="_blank">Сайт проекта Оливио</a>
 
